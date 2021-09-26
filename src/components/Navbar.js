@@ -19,7 +19,7 @@ export const Navbar = () => (
                 <NavLink
                     className="nav-link"
                     to="/about"
-                >Информация
+                >Information
                 </NavLink>
             </li>
         </ul>
